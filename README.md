@@ -17,9 +17,9 @@ rodar:
 (que ficará na pasta `build`)
 
 ## Surge
-http://concerned-learning.surge.sh/
+http://crazy-ship.surge.sh/
 
 ## Contato
 <p>:man: Felipe Gomes</p>
 <p>:email: felipegomesfullstack@gmail.com</p>
-<p>:telephone_receiver: (33) 99143-1327</p>
+<p>:telephone_receiver: (33) 99851-2327</p>
